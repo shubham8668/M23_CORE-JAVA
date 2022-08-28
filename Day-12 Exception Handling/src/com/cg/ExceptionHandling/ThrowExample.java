@@ -8,7 +8,7 @@ public class ThrowExample {
 			System.out.println("second line");
 			throw new RuntimeException();
 			
-			}
+		 }
 		 finally
 		  {
 			  System.out.println("dfbcb");
